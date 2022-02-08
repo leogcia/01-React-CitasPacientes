@@ -1,4 +1,4 @@
-# Proyecto React / "Citas-Veterinaria"
+# Proyecto React / "Citas-Veterinaria."
 
 
 ## Información
