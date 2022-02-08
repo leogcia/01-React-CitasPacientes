@@ -17,4 +17,13 @@
 
 
 
+<<<<<<< HEAD
 ## Link:  https://proyecto1reactcitasveterinarias.netlify.app/
+=======
+## Link:  https://decimoprimerescuelacocina.vercel.app/
+
+
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5f974d7e-c682-4c62-9a68-524f44349a41/deploy-status)](https://app.netlify.com/sites/suspicious-goldberg-4eba3f/deploys)
+>>>>>>> 9003b6da8db21cf79be55d306e0e60c1e2730c49
