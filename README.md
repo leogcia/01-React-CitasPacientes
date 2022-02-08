@@ -22,6 +22,4 @@
 
 
 
-
-Netlify:
-[![Netlify Status](https://api.netlify.com/api/v1/badges/35f6402f-c095-4a97-b65f-6f96b1b5f233/deploy-status)](https://app.netlify.com/sites/reverent-panini-9d8a19/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5f974d7e-c682-4c62-9a68-524f44349a41/deploy-status)](https://app.netlify.com/sites/suspicious-goldberg-4eba3f/deploys)
